@@ -1,16 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
-@import "common/css/_css_teeth.css";
-@import "common/css/_css_mobility_input_fields.css";
-@import "common/css/_css_implants.css";
-@import "common/css/_css_furcations.css";
-@import "common/css/_css_BOP.css";
-@import "common/css/_css_PI.css";
-@import "common/css/_css_probing_input_fields.css";
-@import "common/css/_css_probing_polygons.css";
-@import "common/css/_css_notes_input_fields.css";
-@import "common/css/_css_modal.css";
+@import "_css_teeth.css";
+@import "_css_mobility_input_fields.css";
+@import "_css_implants.css";
+@import "_css_furcations.css";
+@import "_css_BOP.css";
+@import "_css_PI.css";
+@import "_css_probing_input_fields.css";
+@import "_css_probing_polygons.css";
+@import "_css_notes_input_fields.css";
+@import "_css_modal.css";
 
 body {
 	margin-top: 0px;
